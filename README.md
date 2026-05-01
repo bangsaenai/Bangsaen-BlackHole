@@ -1,3 +1,25 @@
+# ⚠️ CRITICAL WARNING & LEGAL DISCLAIMER ⚠️
+
+**READ BEFORE CLONING OR EXECUTING ANY FILES IN THIS REPOSITORY.**
+
+This repository contains **The Bangsaen Black Hole**, a weaponized C++ architectural Proof of Concept (PoC) designed for advanced active-defense research. It actively utilizes the **Left Null Space protocol** to perform deterministic, physical bare-metal wiping.
+
+🛑 **DO NOT EXECUTE THIS BINARY ON ANY MACHINE, VM, OR SANDBOX YOU CARE ABOUT.** 🛑
+
+This is not a standard malware sample. The **Agentic Gatekeeper** embedded within this architecture actively monitors hardware entropy, CPU IDs, and virtualization environments. If the system detects that you are not the exact designated target (Condition: Thanos), it will instantly trigger a self-destruct sequence. 
+
+The physical state of your MFT (Master File Table) and memory will be overwritten with absolute zero (`0x00`) at the physical sector level. **This process is irreversible. No data recovery tool or mathematical equation can reverse a physical bare-metal wipe.**
+
+### ⚖️ Liability Waiver:
+By downloading, compiling, or executing any code from this repository, you acknowledge that you are doing so entirely at your own risk. **Bangsaen AI Lab** and its creators assume ZERO liability for:
+- Permanently corrupted Virtual Machines or Sandboxes.
+- Irrecoverable loss of personal, research, or corporate data.
+- System unbootability.
+- Shattered egos of reverse engineers who fail to bypass the wrapper.
+
+**You have been warned. The Gatekeeper is watching.**
+
+---
 # 🕳️ Bangsaen Black Hole: Thanos Edition (C++ / Flutter)
 
 **"You thought the Python version was the monster. We rewrote it in Native C++."**
