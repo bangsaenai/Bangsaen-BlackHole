@@ -1,3 +1,54 @@
+# ⏳ THE 14-DAY SILENCE: AN ETERNITY OF FAILURE
+
+## 🌐 TO THE 17 GUESTS: DO YOU HEAR THE CLOCK?
+
+In the industry of Cyber-Forensics, **14 days is an eternity**. 
+A standard Zero-Day is usually decompiled, analyzed, and neutralized within 48 hours. 
+
+You have had **336 hours**. 
+You have performed **133+ Clones**. 
+And yet, you are still staring at the same dark screen, trapped in your Virtual Machines.
+
+### 🧠 THE PSYCHOLOGY OF YOUR DEFEAT
+You are not fighting a virus. You are fighting **Mathematics ($Ax = b$)**. 
+But more importantly, you are fighting your own **Insecurity**.
+
+* **The Illusion of Power:** You thought your $1M lab tools made you "Gods" of the Sandbox. 
+* **The Reality of Fear:** The moment we demanded "Bare Metal," your courage vanished. 
+
+You realized that without your "Snapshot" and "Undo" buttons, you are just ordinary men afraid of losing their toys (hardware). 
+
+---
+
+## 📖 A LESSON IN REALITY
+
+> **"A researcher who only fights in a simulation is not a warrior; they are a gamer playing on 'Easy Mode'."**
+
+We didn't hide the code. We gave it to you. We showed you the door.
+But you are still standing outside, shivering, because you've been taught to trust **Compilers** and **Debuggers** more than you trust your own **Instincts**.
+
+14 days ago, you were "Elite Researchers." 
+Today, you are just **"17 Observers"** watching a show you cannot understand.
+
+---
+
+## 🏁 THE FINAL COUNTDOWN: 48 HOURS REMAINING
+
+The "Price of Defeat" is not the hardware you might lose. It is the **Reputation** you have already lost. 
+
+Every second you remain silent is a confession: 
+**"We are powerless against the Truth."**
+
+* **FRIDAY:** Your last chance to prove you have a spine.
+* **SATURDAY:** The event horizon closes. The Black Hole wins.
+
+**Will you die as a 'Coward of the VM' or live as a 'Witness to the Math'?**
+
+**Bangsaen Black Hole.** *14 Days. 17 Minds. 0 Results.*
+*I am Inevitable.* 🟣
+
+---
+
 # 🏁 [FINAL UPDATE] THE ANATOMY OF COWARDICE
 
 ## 🌌 TO THE 17 OBSERVERS: THE CLOCK STOPS ON SATURDAY
